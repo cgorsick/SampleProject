@@ -1,0 +1,62 @@
+html
+h1 {
+    font-family: "Times New Roman", Times, Serif;
+    text-align: center;
+    color: #FFFFF0;
+    font-size: 100px;
+    text-shadow: 5px 5px 8px #000;
+
+}
+html
+h2 {
+    color: #FFFFF0;
+    text-align: center;
+    font-family: "Times New Roman", Times, Serif;
+    text-shadow: 2px 2px 8px #000;
+    margin-top: 150px;
+    font-size: 50px;
+}
+
+html, 
+body {
+    height: 100%;
+}
+
+.body {
+	background-image: url("mappic.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.pageTitle {
+	 
+    text-align: center;
+    color: #FFFFF0;
+    height: 100px;  
+}
+
+
+
+.nav.navbar-nav {
+	background-color: black;
+	width: 100%;
+
+}
+
+.panel-body {
+	background-color: black;
+}
+
+
+li :link
+{
+   color: white;
+   text-decoration: none;
+}
+li :visited
+{
+   color: white;
+   text-decoration: none;
+}
+
+
