@@ -1,0 +1,43 @@
+html, 
+body {
+    height: 100%;
+}
+
+.body {
+	background-image: url("mappic.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.pageTitle {
+	 
+    text-align: center;
+    color: #FFFFF0;
+    height: 100px;  
+}
+
+
+
+.nav.navbar-nav {
+	background-color: black;
+	width: 100%;
+
+}
+
+.panel-body {
+	background-color: black;
+}
+
+
+li :link
+{
+   color: white;
+   text-decoration: none;
+}
+li :visited
+{
+   color: white;
+   text-decoration: none;
+}
+
+
